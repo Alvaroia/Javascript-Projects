@@ -1,0 +1,11 @@
+#clock {
+    border: 2px solid black;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -200px;
+    margin-top: -200px;
+}
